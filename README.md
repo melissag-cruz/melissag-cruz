@@ -1,6 +1,6 @@
 # Melissa Gomes 👋
 
-## 💜 Olá! 
+## 💜 Olá!
 
 Sou estudante de Engenharia de Software e atuo como estagiária em Engenharia de Dados na Vivo. Trabalho com pipelines, processos de ETL/ELT e modernização de fluxos de dados em ambientes de Big Data na Azure e no Databricks.
 
@@ -8,7 +8,7 @@ Tenho experiência com Python, SQL e PySpark, além de atuar em iniciativas de m
 
 🔭 Atualmente, trabalho com modernização e migração de pipelines de dados.  
 📚 Estudo Big Data, Databricks, Azure e inteligência artificial aplicada a dados.  
-💬 Quer conversar sobre dados, tecnologia ou carreira? [Conecte-se comigo no LinkedIn](www.linkedin.com/in/melissagscruz).
+💬 Quer conversar sobre dados, tecnologia ou carreira? [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/melissagscruz).
 
 ---
 
@@ -27,13 +27,24 @@ Tenho experiência com Python, SQL e PySpark, além de atuar em iniciativas de m
 ## 🚀 Tecnologias e ferramentas
 
 <p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark / PySpark" title="Apache Spark / PySpark" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" />
-  <img height="32" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" title="SQL" />
+  <img height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img height="28" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img height="28" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
   <img height="28" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img height="28" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img height="28" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img height="28" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
+
+---
+
+## 🛠️ Projetos
+
+### 💰 [Calculadora de Gastos Pessoais](https://github.com/melissag-cruz/calculadora-gastos-pessoais)
+
+Aplicação em Python, com interface gráfica e versão de terminal, para controlar despesas: resumo por categoria, renda e saldo do mês, orçamento com alertas, exportação para Excel e gráficos.
+
+**Destaques:** testes automatizados, integração contínua com GitHub Actions e código padronizado com ruff.
 
 ---
 
@@ -49,6 +60,6 @@ Tenho experiência com Python, SQL e PySpark, além de atuar em iniciativas de m
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=melissag-cruz&show_icons=true&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=melissag-cruz&show_icons=true&locale=pt-br&include_all_commits=true&theme=transparent&v=2)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=melissag-cruz&layout=compact&locale=pt-br)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=melissag-cruz&layout=compact&locale=pt-br&theme=transparent&v=2)
